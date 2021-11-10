@@ -1,1 +1,8 @@
 theme: jekyll-theme-slate
+
+# Site settings
+title: Zelos Technology
+email: contact@zelostech.com
+description: Zelos Technology
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://zelostech.com" # the base hostname & protocol for your site
