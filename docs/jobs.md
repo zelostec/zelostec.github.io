@@ -73,20 +73,19 @@ DFT设计经验，熟悉UVM等验证环境
 FPGA开发经验优先
 熟悉加速器架构相关开发经验优先
 性能/功耗/面积分析研发经验优先
-* 学历：硕士及以上学历（CS/EE专业）；
-* 熟悉Linux/Unix的工作环境；熟悉Python/Matlab/Perl等脚本语言
-----------------------
+学历：硕士及以上学历（CS/EE专业）；
+熟悉Linux/Unix的工作环境；熟悉Python/Matlab/Perl等脚本语言
+
 
 ### ASIC/FPGA RTL设计工程师
 
-【岗位职责】
-
+**职责：**
 设计AI加速器系统架构，优化低延迟和高吞吐的AI加速器；
 为系统设计DFT模块，UVM验证和测试设计正确性；
 对系统架构进行快速FPGA验证；
 对性能、功耗、面积进行分析和权衡；开发PPA模拟环境，建立和维护PPA模型和测试系统。
 
-【所需技能】
+**要求：**
 RTL设计经验，精通Verilog/VHDL芯片前端开发和仿真流程，精通时序分析
 DFT设计经验，熟悉UVM等验证环境
 熟悉C++、SystemC、SystemVerilog、Chisel、SpinalHDL一种或多种HLS高级综合流程
