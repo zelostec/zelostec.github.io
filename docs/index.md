@@ -15,8 +15,9 @@
 
 
 ### We are hiring! 
-** Link: **[Job openings](./jobs)**.
-** Location： 
+##### Link: **[Job openings](./jobs)**
+
+** Location：** 
 - **San Jose, US**
 - **Beijing, China**
 - **Suzhou, China**
