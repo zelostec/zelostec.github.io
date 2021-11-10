@@ -7,6 +7,7 @@
 3. Integrate with popular machine learning frameworks and optimize for AI chip
 4. Develop customized high-performance computation library on AI chip
 5. Research the industry trend and customer requirement of the machine learning algorithms and accelerators and drive partnerships for access to the most advanced technologies
+
 **QUALIFICATION:**
 1. Master/PhD degree in CS/EE/Math or equivalent
 2. 4+ years as a silicon or compute architect or micro-architect
@@ -38,7 +39,9 @@
 6. Knowledge with CPU/GPU/DSP/AI Accelerator Architecture Design
 
 ### FPGA产品原型设计工程师
+
 **要求：**
+
 在 FPGA 上进行启动、调试和验证的成熟经验
 有AI加速器FPGA开发经验者优先
 使用 Xilinx Vivido FPGA 平台的经验
@@ -55,14 +58,14 @@ RTL设计和验证
 ### 芯片前端设计工程师
 
 
-**要求：**
+**职责：**
 芯片前端RTL硬件设计和优化；
 为系统设计DFT模块，UVM验证和测试设计正确性；
 对系统架构进行快速FPGA验证；
 与团队合作共同迭代优化加速器架构，优化低延迟和高吞吐的人工智能芯片；
 对性能、功耗、面积进行分析和权衡；开发PPA模拟环境，建立和维护PPA模型和测试系统。
 
-【所需技能】
+**要求：**
 RTL设计经验，精通Verilog/VHDL芯片前端开发和仿真流程，精通时序分析
 DFT设计经验，熟悉UVM等验证环境
 熟悉C++、SystemC、SystemVerilog、Chisel、SpinalHDL一种或多种HLS高级综合流程
@@ -74,7 +77,7 @@ FPGA开发经验优先
 * 熟悉Linux/Unix的工作环境；熟悉Python/Matlab/Perl等脚本语言
 ----------------------
 
-ASIC/FPGA RTL设计工程师
+### ASIC/FPGA RTL设计工程师
 
 【岗位职责】
 
