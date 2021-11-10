@@ -1,14 +1,14 @@
 ### Pioneers in Autonomous Driving
 
-#
+<p>&nbsp;</p>
 
-### World-leading Technologies​
+### World-leading Technologies
 
-#
+<p>&nbsp;</p>
 
 ### Flexible Business Models
 
-#
+<p>&nbsp;</p>
 
 ### We are hiring! 
 ##### Link: **[Job openings](./jobs)**
