@@ -1,9 +1,3 @@
-
-### We are hiring!
-- **San Jose, US**
-- **Beijing, China**
-- **Suzhou, China**
-
 ### Pioneers in Autonomous Driving
 - Experts from industry’s leading companies
 - Average 10+ years of experiences
@@ -19,8 +13,15 @@
 - Autonomous driving solutions for your vehicle
 - ASIC for your platform
 
-### Support or Contact
 
+### We are hiring! 
+** Link: **[Job openings](./jobs)**.
+** Location： 
+- **San Jose, US**
+- **Beijing, China**
+- **Suzhou, China**
+
+### Support or Contact
 - <contact@zelostech.com>
 - 333 West San Carlos Street, Suite 600 
 San Jose, CA 95110
