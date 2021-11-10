@@ -1,10 +1,8 @@
-# **Zelos Technology**
 
 ### We are hiring!
 - **San Jose, US**
 - **Beijing, China**
 - **Suzhou, China**
-
 
 ### Pioneers in Autonomous Driving
 - Experts from industry’s leading companies
@@ -20,7 +18,6 @@
 - Transportation as a Service
 - Autonomous driving solutions for your vehicle
 - ASIC for your platform
-
 
 ### Support or Contact
 
