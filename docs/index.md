@@ -1,11 +1,30 @@
-## Welcome to GitHub Pages
+## Zelos Technology
 
-You can use the [editor on GitHub](https://github.com/zelostec/zelostec.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### We are hiring!
+- **San Jose, US**
+- **Beijing, China**
+- **Suzhou, China**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Pioneers in Autonomous Driving
+- Experts from industry’s leading companies
+- Average 10+ years of experiences
+- Demonstrated capabilities of innovation and delivery
 
-### Markdown
+### World-leading Technologies​
+- L4 autonomous driving ready
+- Software-hardware co-design and optimization
+- Internal designed ASIC for AI
 
+### Flexible Business Models
+- Transportation as a Service
+- Autonomous driving solutions for your vehicle
+- ASIC for your platform
+
+​
+
+​
+
+​
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -34,4 +53,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<contact@zelostech.com>
+
+333 West San Carlos Street, Suite 600 
+San Jose, CA 95110
+
+
