@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 
 # Site settings
-title: Zelos Technology
+title: ![zelos](./images/zelos.png) Zelos Technology
 email: contact@zelostech.com
 description: Pioneers in Autonomous Driving with leading Technologies
 baseurl: "/" # the subpath of your site, e.g. /blog
